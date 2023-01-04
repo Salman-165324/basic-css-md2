@@ -1,0 +1,10 @@
+li{
+    color:darkgoldenrod
+}
+
+
+ul li{
+    color: rgb(201, 29, 201);
+    display: inline;
+    
+}

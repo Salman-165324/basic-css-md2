@@ -1,0 +1,46 @@
+.header{
+
+    
+    height: 400px;
+    /* background-image: url(../bg\ image.jpg); */
+    /* background-image: url(../Images/bg\ image.jpg); */
+    background-image: url('../Images/devloper.jpg');
+    background-size: cover;
+    /* background-color: black; */
+    background-repeat: no-repeat;
+    background-blend-mode:darken;
+    color: white;
+    
+
+}
+.blog{
+    background-color: peru;
+    box-shadow: 10px 8px 20px gray;
+    margin-bottom: 100px;
+}
+
+h3{
+    color: magenta;
+    text-decoration: underline;
+}
+p{
+    color: darkgreen; 
+    padding: 50px;
+}
+ .page-title{
+    padding-top: 20px;
+    /* color: #ecff3e; */
+    font-weight: 900;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ span{
+    border: 1px solid crimson; 
+    height: 50px;
+    width: 100px;
+    /* margin-left: 50px; */
+    /* display: block; */
+    /* display: inline-block; */
+    display: none;
+ }
